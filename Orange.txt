@@ -1,0 +1,7 @@
+Orange Developer Account
+Email address  = fkoroma171@central.edu.sl
+Password = Lost8642@!marksal
+First Name = Francis
+Last Name = Koroma
+Country = Sierra Leone
+Job = Software
